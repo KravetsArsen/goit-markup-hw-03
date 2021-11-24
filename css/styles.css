@@ -395,6 +395,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     margin-right: -30px;
+    margin-bottom: -30px;
 }
 
 .our-team-description{
@@ -442,10 +443,10 @@ img {
 .our-work-list{
     display: flex;
     flex-wrap: wrap;
-    /* margin-right: -30px;
-    margin-bottom: -30px; */
+    margin-right: -30px;
+    margin-bottom: -30px;
     padding-top: 50px;
-    padding-bottom: 94px;
+    padding-bottom: 74px;
 }
 
 .our-work-item{
@@ -456,8 +457,9 @@ img {
 
 .our-work-item:hover,
 .our-work-item:focus {
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
-        1px 4px 6px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 
+    0px 4px 4px rgba(0, 0, 0, 0.06),
+    1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
 
