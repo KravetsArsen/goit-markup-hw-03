@@ -151,6 +151,12 @@ img {
     padding-bottom: 200px;
     background-color: var(--background-color);
 }
+
+.our-works{
+    padding-top: 94px;
+    padding-bottom: 74px;
+}
+
 .footer-background{
     padding-top: 60px;
     padding-bottom: 60px;
@@ -288,7 +294,7 @@ img {
 }
 
 .portfolio-name{
-    font-weight: 500;
+    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
@@ -402,6 +408,7 @@ img {
     display: flex;
     flex-wrap: wrap;
     margin-right: -30px;
+    margin-bottom: -30px;
 }
 
 .our-team-description{
@@ -426,7 +433,6 @@ img {
 
 .our-works-button-list{
     display: flex;
-    padding-top: 94px;
     margin-bottom: 50px;
     justify-content: center;
 }
@@ -447,7 +453,6 @@ img {
     display: flex;
     flex-wrap: wrap;
     margin-right: -30px;
-    padding-bottom: 74px;
 }
 
 .our-work-item{
